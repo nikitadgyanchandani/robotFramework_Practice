@@ -1,0 +1,6 @@
+{
+    "javascript.preferences.autoImportFileExcludePatterns": [
+        "   {      \"key\": \"tab\",      \"command\": \"-acceptSelectedSuggestion\",      \"when\": \"editorTextFocus && suggestWidgetVisible\"    }"
+    ],
+    "workbench.settings.openDefaultKeybindings": false
+}
